@@ -7,11 +7,11 @@ The project is designed to run on a Basys 3, currently the single cycle core run
 - [x] Single Cycle
 - [x] Synthesizable
 - [x] RV32I
-- [~] RV64I (WIP)
-- [~] Memory/Peripheral IO Bus (WIP)
-- [~] 6 Stage Pipeline (WIP)
-- [~] Direct-mapped cache
-- [~] Instruction re-order system
+- [ ] RV64I (WIP)
+- [ ] Memory/Peripheral IO Bus (WIP)
+- [ ] 6 Stage Pipeline (WIP)
+- [ ] Direct-mapped cache
+- [ ] Instruction re-order system
 
 ## Why?
 
